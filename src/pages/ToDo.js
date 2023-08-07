@@ -1,6 +1,6 @@
 import React from 'react';
 
-const ToDo = ({todo, handleToggle}) => {
+const ToDo = ({ todo, handleToggle }) => {
 
     const handleClick = (e) => {
         e.preventDefault()
